@@ -98,3 +98,4 @@ ENV/
 *.pdf
 *.md
 !README.md
+kline_data
