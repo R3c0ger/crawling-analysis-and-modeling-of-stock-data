@@ -98,4 +98,7 @@ ENV/
 *.pdf
 *.md
 !README.md
+
+# results
 kline_data
+*.xlsx
